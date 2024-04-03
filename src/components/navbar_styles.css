@@ -1,0 +1,20 @@
+.navbar{
+display: flex;
+height: 60px;
+justify-content: center;
+align-items: center;
+background-color: #004AAD;
+}
+.nav-att{
+display: flex;
+align-items: flex-start;
+gap: 24px;
+}
+.nav-a{
+color: white !important;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}

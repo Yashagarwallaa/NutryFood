@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Katibeh&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kadwa:wght@400;700&family=Katibeh&display=swap');
+
+.header{
+    height:7.5rem;
+    background-color: white;
+    overflow-y: hidden;
+    display: inline-flex;
+    gap:3rem;
+}
+.image-header{
+    display: flex;
+}
+.imageheader1{
+    flex-shrink: 0;
+}
+.header-title{
+display: inline-flex;
+overflow-y: hidden;
+margin-top: 1rem;
+margin-left: 4rem;
+margin-bottom: 8rem;
+width: 20%;
+}
+.title{
+flex-shrink: 0;
+}
+.main-title{
+color: #004AAD;
+font-family: Katibeh;
+font-size: 2.6rem;
+font-style: normal;
+font-weight:500;
+}
+.slogan{
+    color: #004AAD;
+font-family: Kadwa;
+font-size: 0.6rem;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+}
+.header-search{
+    border-radius: 1.25rem;
+background-color: rgba(8, 236, 101, 0.19);
+display: flex;
+width: 5vw;
+height: 2rem;
+padding: 0.5rem 29.6rem 0.5rem 1.5rem;
+align-items: center;
+flex-shrink: 0;
+margin-top: 3rem;
+}
+.header-last{
+    display: inline-flex;
+align-items: center;
+gap: 0.1rem;
+width: 30%;
+margin-right: 4rem;
+}
+.header-last-title{
+    color: #000;
+font-family: Montserrat;
+font-size: 0.7rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+height: 1.5rem;
+z-index: 2;
+overflow-y: hidden;
+}
+.header-last-image{
+    width: 40%;
+}

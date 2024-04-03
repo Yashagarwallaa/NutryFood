@@ -1,0 +1,34 @@
+ <div style={{width: "1280px" , height: "100px", background :"#FFF"}}>
+
+    <div style={{width: '37.105px',height: '50.526px',flexShrink: 0, }}>
+    <svg xmlns="http://www.w3.org/2000/svg" width="38" height="52" viewBox="0 0 38 52" fill="none">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.6314 44.3663L7.62295 26L25.6314 7.6084L34.6356 16.8042L37.9998 13.3684L25.6314 0.736816L0.894531 26L25.6314 51.2631L37.9998 38.6316L34.6356 35.1958L25.6314 44.3663Z" fill="#004AAD"/>
+    </svg>
+    </div>
+    <div style = {{ width: '60px',height: '60px',flexShrink: 0,}}>
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="60" viewBox="0 0 61 60" fill="none">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.8423 48.175L12.6423 30L30.8423 11.8L39.9423 20.9L43.3423 17.5L30.8423 5L5.84229 30L30.8423 55L43.3423 42.5L39.9423 39.1L30.8423 48.175Z" fill="#004AAD"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M46.316 21.4739L55.416 30.5739L46.316 39.6739V21.4739Z" fill="#08EC65"/>
+<path d="M40.0001 30.0001C40.0001 35.0984 35.8464 39.158 30.8422 39.158C25.8385 39.158 21.6843 35.0984 21.6843 30.0001C21.6843 24.9017 25.7439 20.8422 30.8422 20.8422C35.9406 20.8422 40.0001 24.9017 40.0001 30.0001Z" fill="#004AAD"/>
+</svg>
+</div>
+    <div style= {{color: '#004AAD',fontFamily: 'Katibeh',fontSize: '43.421px','font-style': 'normal',fontWeight: '400',lineHeight: 'normal', width:'177.632px',height:'25.263px',flexShrink:'0'}}>
+                NUTRYFOOD
+            </div>
+           <div style={{color: '#004AAD',fontFamily: 'Kadwa',fontSize: '7.895px',fontStyle: 'normal',
+           fontWeight: '700',lineHeight: 'normal'}}>
+            CROWNED WITH INNOVATIONS
+            </div>
+</div>
+        <div  style={{width: "522px" , height: "40px",flexShrink: "0", display:'flex',
+        padding: "8px 474px 8px 24px",alignItems:"center", borderRadius :'20px',
+        background: 'rgba(8, 236, 101, 0.19)'}} >
+
+        </div>
+        <div style={{display:'inline-flex',alignItems:'center', gap : '8px'}}>
+       
+         <div style = {{color: '#000',fontFamily: 'Montserrat',
+          fontSize: '10px',fontStyle: 'normal',fontWeight: '600',lineHeight: 'normal'}}>
+          Domestic & International Markets- Accessible worldwide and everywhere
+          </div>
+        </div>

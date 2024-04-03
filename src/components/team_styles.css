@@ -1,0 +1,60 @@
+.team-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.team-title{
+    color: #000;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-top: 1.8rem;
+}
+.team-frame{
+    margin-top: 3rem;
+    display: inline-flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 2.5rem;
+margin-bottom: 13rem;
+}
+.team-frame-1{
+    display: flex;
+align-items: center;
+gap: 1.25rem;
+width: 80vw;
+margin-left: 10vw;
+margin-right: 10vw;
+margin-bottom: 2.5rem;
+}
+.team-frame-1-a{
+    width: 25%;
+}
+.imaget-1{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.des{
+    display: flex;
+    flex-direction: column;
+height: 88px;
+padding: 0px 2.5rem 0px 2.5rem;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+border-radius: 0.8rem;
+border: 1px solid rgba(0, 74, 173, 0.40);
+background: #CBE1FF;
+}
+.des-des{
+    color: rgba(0, 0, 0, 0.85);
+font-family: Montserrat;
+font-size: 1rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-align: center;
+}
